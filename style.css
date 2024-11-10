@@ -1,4 +1,9 @@
 body { 
-    background-color: rgb(236, 174, 252);
+    background-color: rgb(243, 193, 255);
     color: rgb(9, 1, 14);
+    margin: 0px;
+}
+
+header {
+    border-bottom: solid 2px rgb(222, 120, 248);
 }
